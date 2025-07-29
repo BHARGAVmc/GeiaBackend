@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%oym!hf-=st+ua8&9o*60&8x+jz!mgl6c2$rj$1t0q)h-(5xn!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['geiabackend.onrender.com']
 
 
 # Application definition
